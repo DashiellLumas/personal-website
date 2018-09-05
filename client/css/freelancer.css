@@ -710,10 +710,10 @@ footer .footer-below {
 
 
 .modal-project-description{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .img-fluid-modal {
-  /* width: 450px;
-  height:250px; */
+  width: 450px;
+  height:250px;
 }
