@@ -717,3 +717,13 @@ footer .footer-below {
   width: 450px;
   height:250px;
 }
+
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3) {
+    .img-fluid-modal {
+      width: 450px;
+      height:200px;
+    }
+}
